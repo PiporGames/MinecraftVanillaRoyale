@@ -13,7 +13,7 @@ Minecraft: Vanilla Royale features...
 - Storm Controller with multiple Storm stages, each with its own closing and wating phase.
 - Vanilla friendly HUD that displays ingame information about the storm.
 - Custom made generator that generates and places custom loot chests all over the playable area map.
-- Custom <<Air Drops>> that contains loot.
+- Custom 'Air Drops' that contains loot.
 - Custom sound system, managed by resource packs.
 - Chat based GUI for starting and managing games.
 - Custom weapons (grenades and rockets), with multiple settings to choose.
@@ -25,7 +25,7 @@ Minecraft: Vanilla Royale features...
 ## Gameplay
 ### Lobby
 Minecraft: Vanilla Royale automatically creates and manages game sessions which can be customized by yourself with the help of a chat based GUI, or throught the datapack files itself. Vanilla Royale creates a temporal lobby when launched and waits for other players to join in a 60 seconds span.
-Once the time passes, or the <<Skip>> button is pressed by the host, the game will start.
+Once the time passes, or the 'Skip' button is pressed by the host, the game will start.
   
 ### Pre-Game
 In the pre-game phase, Vanilla Royale will generate loot chest all over the playeable area. A progress bar will display how much time its left until all the chests are generated and spread. Players will be sent into the air and once the game starts, the chests will be visible and players will glide through the air to ground.
@@ -36,7 +36,7 @@ There are two phases: Calm, in which the storm won't move; and Closing, in which
 Every time a stage is completed (a Calm and Closing phase), a chat message will reveal all the information you need to know about the next storm phase.
 
 ### End-Game
-When heading towards the last storm stages, air drops will start to fall from the sky. These air drops can be tracked with an <<Air Drop Tracking Compass>>, which points to the nearest airdrop in the match. While in air, the air drop will have a glowing effect, making it easier to spot. An airdrop can be shot at to make it fall faster by making damage underneath the airdrop itself. Once the air drop is set, you will need to break the airdrop to get the loot.
+When heading towards the last storm stages, air drops will start to fall from the sky. These air drops can be tracked with an 'Air Drop Tracking Compass', which points to the nearest airdrop in the match. While in air, the air drop will have a glowing effect, making it easier to spot. An airdrop can be shot at to make it fall faster by making damage underneath the airdrop itself. Once the air drop is set, you will need to break the airdrop to get the loot.
 Once the last storm stage is hit, a sudden death storm stage will start, poisoning all remaining players with the Whiter effect for the rest of the match.
 If players are still remaining, until some time, a random player is choosen to be struck by a lightning, inflicing more damage.
 
