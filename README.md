@@ -50,3 +50,7 @@ Chest will still remain in their positions and will not be cleared after using t
 
 ## Code
 The Code in this datapack has quite a lot of bugs and unfinished features, but, it stills hold up pretty well when playing on normal, well-known scenarios without strange moddifications or other datapacks. The code has been running well on other versions of the game since 1.17, so 1.18 and 1.19 might still work just fine!
+
+## Copyright
+Blah blah blah, you know, Minecraft owned my Microsoft, resource pack sound files from Mojang, 4J Studios and Epic Games.
+No money is made with this project.
