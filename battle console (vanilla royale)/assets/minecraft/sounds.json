@@ -1,0 +1,112 @@
+{
+    "custom.victory": {
+		"sounds": [
+			"custom/victory"
+		]
+	},
+	"custom.stormtimer": {
+		"sounds": [
+			"custom/stormtimer"
+		]
+	},
+	"custom.stormalert": {
+		"sounds": [
+			"custom/stormalert"
+		]
+	},
+	"custom.preparing": {
+		"sounds": [
+			"custom/preparing"
+		]
+	},
+	"custom.preparingping": {
+		"sounds": [
+			"custom/preparingping"
+		]
+	},
+	"custom.preparingping2": {
+		"sounds": [
+			"custom/preparingping2"
+		]
+	},
+	"custom.preparingping3": {
+		"sounds": [
+			"custom/preparingping3"
+		]
+	},
+	"custom.start": {
+		"sounds": [
+			"custom/start"
+		]
+	},
+	"custom.lobby": {
+		"sounds": [
+			"custom/lobby"
+		]
+	},
+	"custom.airdrop": {
+		"sounds": [
+			"custom/airdrop"
+		]
+	},
+	"custom.ping": {
+		"sounds": [
+			"custom/ping"
+		]
+	},
+	"custom.alert": {
+		"sounds": [
+			"custom/alert"
+		]
+	},
+	"custom.incapped": {
+		"sounds": [
+			"custom/incapped"
+		]
+	},
+	"custom.dead": {
+		"sounds": [
+			"custom/dead"
+		]
+	},
+	"custom.kill": {
+		"sounds": [
+			"custom/kill"
+		]
+	},
+	"custom.ping2": {
+		"sounds": [
+			"custom/ping2"
+		]
+	},
+	"custom.lobbyping": {
+		"sounds": [
+			"custom/lobbyping"
+		]
+	},
+	"custom.lobbyping2": {
+		"sounds": [
+			"custom/lobbyping2"
+		]
+	},
+	"custom.lobbyping3": {
+		"sounds": [
+			"custom/lobbyping3"
+		]
+	},
+	"custom.5players": {
+		"sounds": [
+			"custom/5players"
+		]
+	},
+	"custom.2players": {
+		"sounds": [
+			"custom/2players"
+		]
+	},
+	"custom.defeat": {
+		"sounds": [
+			"custom/defeat"
+		]
+	}
+}
